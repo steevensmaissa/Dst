@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-size: cover;
+    background: url("https://images.unsplash.com/photo-1561112079-2c3226d9c559?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80");
+}
+
+table{
+    background: purple;
+    margin: auto;
+    width: 600px;
+    height: 400px;
+
+}
+
+.form{
+    width: 400px;
+    height: 300px;
+    justify-content: space-around;
+    margin: auto;
+
+}
+
+textarea{
+    width:200px;
+    height:103px;
+    text-align: center;
+    font-size: 50px;
+}
+.input{
+    font-weight: bold;
+    width: 80px;
+    height: auto;
+    font-size: 14px;
+    align-content: space-around;
+}
